@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Patient User",
+    "email": "patient@test.com",
+    "password": "$2a$10$rFTcYsUSg92Y4m3aZAP8oO8h4qMk4f9czVSjqbULABRAD.X9mPAmC",
+    "role": "patient",
+    "phone": "9876543210",
+    "gender": "male",
+    "age": 30,
+    "profileImage": "https://via.placeholder.com/150",
+    "createdAt": "2026-05-15T22:03:15.979Z"
+  },
+  {
+    "id": 2,
+    "name": "Admin User",
+    "email": "admin@test.com",
+    "password": "$2a$10$rFTcYsUSg92Y4m3aZAP8oO8h4qMk4f9czVSjqbULABRAD.X9mPAmC",
+    "role": "admin",
+    "phone": "9876543212",
+    "gender": "male",
+    "age": 45,
+    "profileImage": "https://via.placeholder.com/150",
+    "createdAt": "2026-05-15T22:03:15.980Z"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Ayesha Fatima",
+    "email": "ayesha@test.com",
+    "password": "$2a$10$TZL/ekzpbUYqlI1g0B06luoOBDJfr0B.q6qPfm2SNLls/952OuiuK",
+    "role": "doctor",
+    "phone": "3001234567",
+    "gender": "female",
+    "age": 38,
+    "profileImage": "https://ui-avatars.com/api/?name=Ayesha+Fatima&background=FF69B4&color=fff&size=400&bold=true",
+    "createdAt": "2026-05-16T10:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Maryam Fatima",
+    "email": "maryam@test.com",
+    "password": "$2a$10$TZL/ekzpbUYqlI1g0B06luoOBDJfr0B.q6qPfm2SNLls/952OuiuK",
+    "role": "doctor",
+    "phone": "3001234568",
+    "gender": "female",
+    "age": 35,
+    "profileImage": "https://ui-avatars.com/api/?name=Maryam+Fatima&background=FF1493&color=fff&size=400&bold=true",
+    "createdAt": "2026-05-16T10:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Zulkifl Ahmad",
+    "email": "zulkifl@test.com",
+    "password": "$2a$10$TZL/ekzpbUYqlI1g0B06luoOBDJfr0B.q6qPfm2SNLls/952OuiuK",
+    "role": "doctor",
+    "phone": "3001234569",
+    "gender": "male",
+    "age": 36,
+    "profileImage": "https://ui-avatars.com/api/?name=Zulkifl+Ahmad&background=0066CC&color=fff&size=400&bold=true",
+    "createdAt": "2026-05-16T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Muhammad Salman",
+    "email": "salman@test.com",
+    "password": "$2a$10$TZL/ekzpbUYqlI1g0B06luoOBDJfr0B.q6qPfm2SNLls/952OuiuK",
+    "role": "doctor",
+    "phone": "3001234570",
+    "gender": "male",
+    "age": 40,
+    "profileImage": "https://ui-avatars.com/api/?name=Muhammad+Salman&background=1E90FF&color=fff&size=400&bold=true",
+    "createdAt": "2026-05-16T10:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Hassan Ahmed",
+    "email": "hassan@test.com",
+    "password": "$2a$10$TZL/ekzpbUYqlI1g0B06luoOBDJfr0B.q6qPfm2SNLls/952OuiuK",
+    "role": "doctor",
+    "phone": "3001234571",
+    "gender": "male",
+    "age": 37,
+    "profileImage": "https://ui-avatars.com/api/?name=Hassan+Ahmed&background=4169E1&color=fff&size=400&bold=true",
+    "createdAt": "2026-05-16T10:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "name": "Javaid",
+    "email": "javaid@test.com",
+    "password": "$2a$10$ESDKcuXhP2.KhsXFVd8K0uKzLHPnZtRPHGSR4IzAkRDvxFLAqbVLu",
+    "role": "patient",
+    "phone": "123456",
+    "gender": "male",
+    "age": "7",
+    "profileImage": "https://via.placeholder.com/150",
+    "createdAt": "2026-05-16T10:48:43.517Z"
+  }
+]

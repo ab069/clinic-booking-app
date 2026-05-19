@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "patientId": 1,
+    "patientName": "Patient User",
+    "doctorId": 1,
+    "doctorName": "Dr. Ayesha Fatima",
+    "date": "2026-05-16",
+    "time": "10:00",
+    "status": "confirmed",
+    "symptoms": "Regular checkup",
+    "notes": "Patient needs annual health checkup",
+    "doctorNotes": "All vitals normal",
+    "createdAt": "2026-05-15T22:03:15.980Z"
+  },
+  {
+    "id": 2,
+    "patientId": 1,
+    "patientName": "Patient User",
+    "doctorId": 2,
+    "doctorName": "Dr. Maryam Fatima",
+    "date": "2026-05-17",
+    "time": "14:00",
+    "status": "pending",
+    "symptoms": "Chest discomfort",
+    "notes": "Follow-up consultation needed",
+    "doctorNotes": "",
+    "createdAt": "2026-05-15T22:03:15.980Z"
+  },
+  {
+    "id": 3,
+    "patientId": 1,
+    "patientName": "Patient User",
+    "doctorId": 3,
+    "doctorName": "Dr. Zulkifl Ahmad",
+    "date": "2026-05-17",
+    "time": "14:00",
+    "status": "confirmed",
+    "symptoms": "Heart palpitations and fatigue",
+    "notes": "",
+    "doctorNotes": "Patient doing well",
+    "createdAt": "2026-05-15T22:05:22.036Z"
+  },
+  {
+    "id": 4,
+    "patientId": 1,
+    "patientName": "Patient User",
+    "doctorId": 2,
+    "doctorName": "Dr. Maryam Fatima",
+    "date": "2026-05-18",
+    "time": "10:00",
+    "status": "pending",
+    "symptoms": "Fever",
+    "notes": "just feeling cold\n",
+    "doctorNotes": "",
+    "createdAt": "2026-05-16T10:39:08.415Z"
+  },
+  {
+    "id": 5,
+    "patientId": 8,
+    "patientName": "Javaid",
+    "doctorId": 2,
+    "doctorName": "Dr. Maryam Fatima",
+    "date": "2026-05-18",
+    "time": "00:00",
+    "status": "confirmed",
+    "symptoms": "fever",
+    "notes": "",
+    "createdAt": "2026-05-16T10:49:14.075Z"
+  }
+]

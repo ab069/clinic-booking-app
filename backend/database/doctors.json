@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "userId": 3,
+    "name": "Dr. Ayesha Fatima",
+    "specialization": "Cardiology",
+    "experience": "15 years",
+    "fees": 3500,
+    "bio": "Experienced female cardiologist with 15 years of practice. Graduated from Aga Khan University, Karachi. Dedicated to providing comprehensive heart care.",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTime": [
+      "09:00",
+      "10:00",
+      "11:00",
+      "14:00",
+      "15:00",
+      "16:00"
+    ],
+    "rating": 4.8,
+    "totalRatings": 120,
+    "image": "https://ui-avatars.com/api/?name=Ayesha+Fatima&background=FF69B4&color=fff&size=400&bold=true",
+    "createdAt": "2026-05-15T22:03:15.980Z"
+  },
+  {
+    "id": 2,
+    "userId": 4,
+    "name": "Dr. Maryam Fatima",
+    "specialization": "General Checkup",
+    "experience": "12 years",
+    "fees": 2500,
+    "bio": "General physician focused on preventive care and patient wellness. Trained at LUMS Medical College, Lahore with expertise in family medicine.",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "availableTime": [
+      "10:00",
+      "11:00",
+      "15:00",
+      "16:00"
+    ],
+    "rating": 4.9,
+    "totalRatings": 95,
+    "image": "https://ui-avatars.com/api/?name=Maryam+Fatima&background=FF1493&color=fff&size=400&bold=true",
+    "createdAt": "2026-05-15T22:03:15.980Z"
+  },
+  {
+    "userId": 5,
+    "id": 3,
+    "name": "Dr. Zulkifl Ahmad",
+    "specialization": "Dental Care",
+    "experience": "10 years",
+    "fees": 2800,
+    "bio": "Dentist specializing in cosmetic and preventive dentistry with state-of-the-art equipment. Graduate of Dow University of Health Sciences, Karachi.",
+    "availableDays": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "availableTime": [
+      "09:30",
+      "10:30",
+      "13:30",
+      "14:30"
+    ],
+    "rating": 4.7,
+    "totalRatings": 110,
+    "image": "https://ui-avatars.com/api/?name=Zulkifl+Ahmad&background=0066CC&color=fff&size=400&bold=true",
+    "createdAt": "2026-05-15T22:03:15.980Z"
+  },
+  {
+    "id": 4,
+    "userId": 6,
+    "name": "Dr. Muhammad Salman",
+    "specialization": "Neurology",
+    "experience": "18 years",
+    "fees": 4500,
+    "bio": "Specialized neurologist with expertise in complex neurological conditions. Educated at Peshawar Medical College with international board certifications.",
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Thursday",
+      "Friday"
+    ],
+    "availableTime": [
+      "11:00",
+      "14:00",
+      "15:00"
+    ],
+    "rating": 4.9,
+    "totalRatings": 85,
+    "image": "https://ui-avatars.com/api/?name=Muhammad+Salman&background=1E90FF&color=fff&size=400&bold=true",
+    "createdAt": "2026-05-15T22:03:15.980Z"
+  },
+  {
+    "id": 5,
+    "userId": 7,
+    "name": "Dr. Hassan Ahmed",
+    "specialization": "Pediatrics",
+    "experience": "13 years",
+    "fees": 2800,
+    "bio": "Pediatrician dedicated to children's health and development. Graduated from Rawalpindi Medical College with additional fellowship in pediatric care from UK.",
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday",
+      "Saturday"
+    ],
+    "availableTime": [
+      "10:00",
+      "11:00",
+      "14:00",
+      "15:00",
+      "16:00"
+    ],
+    "rating": 4.8,
+    "totalRatings": 140,
+    "image": "https://ui-avatars.com/api/?name=Hassan+Ahmed&background=4169E1&color=fff&size=400&bold=true",
+    "createdAt": "2026-05-15T22:03:15.980Z"
+  }
+]
